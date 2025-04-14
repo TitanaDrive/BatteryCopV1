@@ -1,0 +1,24 @@
+{
+  "cell_benchmarks_by_format": {
+    "Blade": 170.7501835733124,
+    "Cylindrical": 123.4940855629184,
+    "Pouch": 164.60085324516146,
+    "Prismatic": 148.74744082517367
+  },
+  "pack_benchmarks_by_application": {
+    "BESS Backup": 113.02325581395348,
+    "BESS Commercial": 64.0040005572407,
+    "BESS Grid": 115.746846160359,
+    "BESS Home": 85.64725792598234,
+    "BEV Aeroplane": 95.07824057971014,
+    "BEV Commercial Vehicle": 141.99712484178215,
+    "BEV Motorbike": 135.44785725738106,
+    "BEV Race Car": 121.10770684714346,
+    "BEV Road Car": 143.07282257189755,
+    "General Pack": 120.94859868983629,
+    "HEV Road Car": 13.978494623655912,
+    "MHEV Race Car": 75.0,
+    "MHEV Road Car": 30.741573033707866,
+    "PHEV Road Car": 82.98473404346848
+  }
+}
