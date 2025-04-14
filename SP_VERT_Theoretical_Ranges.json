@@ -1,0 +1,66 @@
+{
+  "LFP|Graphite": [
+    140,
+    220
+  ],
+  "LFP|Si": [
+    180,
+    250
+  ],
+  "NMC|Graphite": [
+    220,
+    300
+  ],
+  "NMC|Si": [
+    300,
+    420
+  ],
+  "NCA|Graphite": [
+    230,
+    310
+  ],
+  "NCA|Si": [
+    320,
+    430
+  ],
+  "LMFP|Graphite": [
+    180,
+    260
+  ],
+  "LMFP|Si": [
+    240,
+    320
+  ],
+  "NaFM|Hard Carbon": [
+    90,
+    150
+  ],
+  "NFPP|Hard Carbon": [
+    100,
+    140
+  ],
+  "Li\u2013S|Li-metal": [
+    400,
+    550
+  ],
+  "Li\u2013Air|Li-metal": [
+    600,
+    1000
+  ],
+  "Na\u2013Air|Hard Carbon": [
+    200,
+    350
+  ],
+  "LFP|Anode-Free": [
+    180,
+    230
+  ],
+  "NMC|Anode-Free": [
+    300,
+    370
+  ],
+  "Li\u2013S|Anode-Free": [
+    380,
+    490
+  ]
+}
